@@ -1,24 +1,19 @@
-# vue-quora-editor
+## Vue-quora-editor
 
-## Project setup
-```
-npm install
-```
+> This repository is complimentary to my post on [cloning quora's editor with vue]().
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
+#### usage
+```shell
+$ git clone https://github.com/Mayowa-Ojo/vue-quora-editor.git
+$ npm install
+$ npm run serve
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
+#### Comparison
+Quora's Editor:
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![Quora editor](https://dev-to-uploads.s3.amazonaws.com/i/l8zt2jstd9m3ocronqr5.gif)
+
+The Clone:
+
+![clone of the editor](https://dev-to-uploads.s3.amazonaws.com/i/s2ms1sk81cuj6lc7es5m.gif)
